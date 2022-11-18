@@ -1,0 +1,6 @@
+astropy
+matplotlib
+jupyterlab
+synphot
+specutils
+photutils
