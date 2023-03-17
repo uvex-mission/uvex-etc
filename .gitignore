@@ -1,6 +1,8 @@
 # Local stuff
 notebooks/testing
 
+# Max stuff
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
