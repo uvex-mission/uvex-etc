@@ -52,7 +52,7 @@ class UVEX():
         
         
         # Spectral bins
-        self.SPEC_BINS='UVEXS_Spectral_Resolution_R1600.txt'
+        self.SPEC_BINS='UVEX_SPECRES_115nm_165nm_R1600at120nm.txt'
         
         # Background input files
         
